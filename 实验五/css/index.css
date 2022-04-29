@@ -1,0 +1,205 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2022-03-25 15:37:35
+ * @version $Id$
+ */
+.g-index {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.m-hd {
+	height: 300px;
+}
+
+.m-ft {
+	height: 400px;
+	width: 900px;
+	background: #eee;
+	margin: 102px 0 0 99px;
+	display: flex;
+}
+
+.m-hd>.m-lt>img {
+	width: 400px;
+	height: 300px;
+}
+
+.m-hd>div {
+	width: 50% ;
+	float: left;
+	box-sizing: border-box;
+}
+
+.m-lt {
+	text-align: right;
+}
+
+.m-rt {
+	padding-left: 30px;
+}
+
+.m-body {
+	padding: 45px 0 0 0;
+	line-height: 30px;
+}
+
+.m-button {
+	background: blue;
+	margin: 45px 0 0 0;
+	width: 160px;
+	height: 35px;
+	border-radius: 10px;
+}
+
+.m-bd {
+	height: 400px;
+	/*background: #3300ff;*/
+}
+
+.m-top1 {
+	width: 900px;
+	height: 50px;
+	margin: 102px 0 0 99px;
+	display: flex;
+	border-bottom: 1px solid black;
+}
+
+.m-text1 {
+	width: 40px;
+	height: 50px;
+	color: blue;
+	font-weight: bold;
+}
+
+.m-text2 {
+	width: 80px;
+	height: 50px;
+	margin: 0 0 0 15px;
+}
+
+.m-button1 {
+	width: 120px;
+	height: 20px;
+	background: blue;
+	border-radius: 5px;
+	margin: 0 0 0 702px;
+	text-align: center;
+}
+
+.m-bottom1 {
+	display: flex;
+	width: 900px;
+	height: 30px;
+	margin: 102px 0 0 99px;
+	border-bottom: 1px solid black;
+}
+
+.m-data1 {
+	width: 20px;
+	height: 30px;
+	margin: -43px 0 0 0;
+}
+
+.m-title1 {
+	width: 80px;
+	height: 25px;
+	text-align: center;
+	background: blue;
+	border-radius: 5px;
+	margin: -43px 0 0 120px;
+}
+
+.m-text3 {
+	width: 200px;
+	height: 25px;
+	border-radius: 5px;
+	margin: -43px 0 0 120px;
+}
+
+.m-bottom2 {
+	display: flex;
+	width: 900px;
+	height: 30px;
+	margin: 102px 0 0 99px;
+	border-bottom: 1px solid black;
+}
+
+.m-bottom3 {
+	display: flex;
+	width: 900px;
+	height: 30px;
+	margin: 102px 0 0 99px;
+	border-bottom: 1px solid black;
+}
+
+.m-lt1 {
+	width: 400px;
+	height: 260px;
+	background: white;
+	margin: 75px 0 0 35px;
+}
+
+.m-lhd {
+	color: blue;
+	border-left: 5px solid blue;
+	margin: -28px 0 0 0;
+}
+
+.m-title2 {
+	text-align: center;
+	margin: 55px 0 0 0;
+}
+
+.m-num {
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+	font-size: 25px;
+}
+
+.m-text4 {
+	text-align: center;
+}
+
+.m-text5{
+	text-align: center;
+	border-bottom: 1px solid black;
+	height: 45px;
+}
+
+.m-time {
+	text-align: center;
+	color: blue;
+	margin: 20px 0 0 0;
+}
+
+.m-rt1 {
+	width: 400px;
+	height: 260px;
+	background: white;
+	margin: 75px 0 0 35px;
+}
+
+.m-rhd {
+	color: blue;
+	border-left: 5px solid blue;
+	margin: -28px 0 0 0;
+}
+
+.m-button2 {
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	background: blue;
+	border-radius: 5px;
+	text-align: center;
+	margin: 40px 0 0 100px;
+}
+
+.m-text6 {
+	text-align: center;
+	margin: 8px 0 0 0;
+}
