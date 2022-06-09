@@ -13,8 +13,8 @@
 ![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/detail.JPG)
 ## 数据结构</br>
 city|risk|lockdown|detail
---|:--:|:--:|-------:
+:-|:-|:-:|:-
 洛阳|0|0|低风险地区进入洛阳。1.报备2.核酸证明
-湘潭|0|低风险地区进入湘潭。1.48小时核酸检测证明
+湘潭|0|0|低风险地区进入湘潭。1.48小时核酸检测证明
 ## 功能模块</br>
 1.政策匹配![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
