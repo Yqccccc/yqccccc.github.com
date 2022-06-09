@@ -9,3 +9,5 @@
 ## 界面设计</br>
 ### 首页</br>
 ![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
+### 详情页</br>
+![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/2.png)
