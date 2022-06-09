@@ -18,3 +18,5 @@ city|risk|lockdown|detail
 湘潭|0|0|低风险地区进入湘潭。1.48小时核酸检测证明
 ## 功能模块</br>
 1.政策匹配![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
+2.城市选择![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/2.png)
+![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
