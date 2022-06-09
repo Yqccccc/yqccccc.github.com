@@ -12,5 +12,7 @@
 ### 详情页</br>
 ![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/detail.JPG)
 ## 数据结构</br>
+city|risk|lockdown|detail
+
 ## 功能模块</br>
 1.政策匹配![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
