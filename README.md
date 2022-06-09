@@ -17,6 +17,7 @@ city|risk|lockdown|detail
 洛阳|0|0|低风险地区进入洛阳。1.报备2.核酸证明
 湘潭|0|0|低风险地区进入湘潭。1.48小时核酸检测证明
 ## 功能模块</br>
-1.政策匹配![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
-2.城市选择![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/2.png)
-![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)
+1.政策匹配</br>使用json文件存储数组包含每一个城市的数据</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/1.png)</br></br>
+2.城市选择</br>点击查询后，利用界面显示或隐藏，实现两个界面的来回跳转。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/2.png)</br></br>
+在city页面点击查询帮助的A、B等字母，页面自动调整到该字母开头的城市位置。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/3.png)</br></br>
+3.城市变更</br>在城市页面选中要查询的城市后，改变原本page1页面的城市名，并返回到页面page1实现改变html的内容代码。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/4.png)</br></br>
