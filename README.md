@@ -25,4 +25,4 @@ city|risk|lockdown|detail
 5.政策查看</br>通过基础的show()和hide()实现page1和page2页面的跳转，并修改page2的title为要查询的城市。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/7.png)</br></br>使用ajax从json文件中提取需要显示的数据，并显示在page2该地政策位置处中。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/8.png)</br></br>运用界面的出现和隐藏手段，在查询完政策后，可点击“返回”按钮，跳转至主界面。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/9.png)</br></br>
 6.城市互换</br>(1).文字互换：点击切换按钮能够将城市所在位置的文本进行互换。</br>
 (2).颜色改变：判断该地区风险程度是否改变，如果改变更换下方文字
-color。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/10.png)</br></br>
+color。</br>![](https://github.com/Yqccccc/yqccccc.github.com/raw/master/img/10.png)</br>
